@@ -64,15 +64,15 @@
 3. **问题疑惑与解答**
 
    - 问题: 编译完成后二次编译失败
-
    ![52F074C515E4C6257E795A8BDD6F5E81](https://github.com/user-attachments/assets/93b8a27c-2835-478a-be1c-cab6ac7760c5)
 
 
    - 问题：之前也试过本地编译但是失败了
-   
+   ![image](https://github.com/user-attachments/assets/d5245e74-1a7f-4033-99da-673397a49d7d)
+
 
 ### 未来双周计划
 
-1. xxx
-2. xxx
-3. xxx
+1. 再次尝试编译Paddle
+2. 报名文档编辑的任务
+3. 完成热身任务
